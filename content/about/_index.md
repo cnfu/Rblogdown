@@ -11,7 +11,7 @@ academia:
     end_date: "2017"
     institution: Beijing Forestry University
     major: Forest Tree Genetics and Breeding, tissue culture of pines
-    start_date: "2013"
+    start_date: "2014"
 - course:
     degree: B.Sc.
     end_date: "2013"
