@@ -12,10 +12,9 @@ draft: no
 full_name: Fu
 headless: yes
 interests:
-- Data Intensive Systems
-- Distributed Systems
-- Data Streaming Platforms
-- Large-Scale Data Processing Platforms
+- Plants
+- Reading
+- Chinese history
 profile_picture: profile.png
 socials:
   github: YOUR_NAME
