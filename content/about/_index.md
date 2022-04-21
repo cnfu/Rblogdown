@@ -17,7 +17,7 @@ interests:
 - Chinese history
 profile_picture: profile.png
 socials:
-  github: YOUR_NAME
+  github: cnfu
   google_scholar: YOUR_NAME
 academia:
 - course:
