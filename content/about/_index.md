@@ -1,39 +1,33 @@
 ---
 academia:
 - course:
-    degree: Master.
-    institution: Beijing Forestry University
-    major: Plant tissue culture
+    degree: Research associate.
+    institution: Zhejiang Institute of Subtropical Crops, Zhejiang Academy of Agricultural Sciences
+    major: Orchid, Plant tissue culture
+    minor: Statistics, R, LaTeX
     start_date: "2017"
 - course:
     degree: M.Sc.
-    end_date: "2016"
-    institution: Sharif University of Technology
-    major: Software Engineering
-    other_info: graduated without first class honor, supervised by Prof. Very Cool!
+    end_date: "2017"
+    institution: Beijing Forestry University
+    major: Forest Tree Genetics and Breeding, tissue culture of pines
     start_date: "2013"
 - course:
     degree: B.Sc.
     end_date: "2013"
-    institution: University of Kashan
-    major: Software Engineering
-    minor: Statistics
-    other_info: graduated with first class honor, supervised by Prof.  Cool!
+    institution: Huazhong Agricultural University
+    major: Plant Science and Technology
     start_date: "2009"
 affiliations:
 - affiliation:
-    email: email@cs.stanford.edu
-    name: Stanford University
-    title: Ph.D.
-- affiliation:
-    email: email@mycoolstartup.ai
-    name: The Coolest Startup In the World
-    title: CEO & Co-Founder
+    email: Shuangbinfu@gmail.com
+    name: Zhejiang Institute of Subtropical Crops
+    title: Research associate
 blog: true
 cv: cv.pdf
 date: "2020-10-20T17:51:47+03:30"
 draft: false
-full_name: YOUR_NAME
+full_name: Fu
 headless: true
 interests:
 - Data Intensive Systems
