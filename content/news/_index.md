@@ -5,8 +5,8 @@ draft: false
 headless: true
 news_items:
 - date: "2023-11-20"
-  extra_text: August 2023.
-  text: I joined [The Coolest Startup in the World](https://goodluck.com) as the CEO
+  extra_text: 
+  text: 
 num_news: 5
 show_news_icons: true
 title: news
